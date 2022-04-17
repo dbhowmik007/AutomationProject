@@ -1,7 +1,6 @@
 name: Container1 Atrifact
 on:
-  
-  workflow_dispatch:
+ workflow_dispatch:
     
 
 jobs:
